@@ -1,0 +1,24 @@
+Product Company : Google 
+
+Google builds its own products used by billions of people.
+AI work happens inside their core products to make them smarter.
+ 
+Google Maps:
+	AI predicts traffic, suggests fastest routes.
+Google Translate:
+	AI translates text, speech, and even real-time conversations. 	
+Google Photos:
+	AI automatically recognizes faces, objects, and locations in your photos to organize and let you search them.
+
+
+Service Company : TCS 
+
+TCS doesn't build its own products 
+AI solutions for other companies like banks, hospitals, retail chains, etc. 
+
+Client Projects:
+	A bank hires TCS to build an AI system that detects fraud in transactions. 
+Automation:
+	A retail company hires TCS to build a customer-support chatbot.
+Healthcare Clients:
+	TCS builds AI tools that help predict diseases, read medical scans and manage patient records smartly.  

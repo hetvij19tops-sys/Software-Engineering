@@ -1,0 +1,4 @@
+SOFTWARE 		PURPOSE						SPECIFIC USE
+GITHUB	   	Code storage, version control & code review		Review login feature code via Pull Request
+SLACK	   	Real-time team communication				A tester messages the developer
+JIRA	   	Task planning & project tracking			Manager creates a task card
