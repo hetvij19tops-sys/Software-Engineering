@@ -1,0 +1,39 @@
+SDLC vs ML Lifecycle
+
+First: SDLC
+
+SDLC is mainly about building software.
+
+Requirement
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Maintenance
+
+second: ML Lifecycle
+
+ML means Machine Learning.
+
+When you're building a machine-learning feature, you need something extra:
+
+Collect Data
+     ↓
+Prepare Data
+     ↓
+Train Model
+     ↓
+Evaluate Model
+     ↓
+Deploy Model
+     ↓
+Monitor Model
+     ↓
+Collect New Data
+
+The SDLC and ML lifecycle are similar because both involve planning, development, testing, deployment and improvement. However, the ML lifecycle has an additional focus on collecting and preparing data, training models and monitoring their performance after deployment. For example, if YouTube adds a new recommendation feature, the SDLC would focus on designing and developing the feature, while the ML lifecycle would also collect user data, train a recommendation model and continuously monitor how well the model performs. If user behavior changes, the model may need new data and retraining.

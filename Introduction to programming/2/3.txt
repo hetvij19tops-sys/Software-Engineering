@@ -1,0 +1,8 @@
+N = 4, so the loop will run 4 times.
+Initially, sum = 0.
+For i = 1, sum becomes 1.
+For i = 2, sum becomes 3.
+For i = 3, sum becomes 6.
+For i = 4, sum becomes 10.
+Therefore, the final output is 10.
+1 + 2 + 3 + 4 = 10

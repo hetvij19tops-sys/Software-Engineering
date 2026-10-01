@@ -1,0 +1,31 @@
+Install Git
+Step 1: Download Git
+
+Go to the official Git website:
+
+Download Git from the official website
+
+Download the Windows version 
+
+Step 2: Install Git
+
+Open the downloaded installer.
+
+click:
+
+Next → Next → Next → Install
+
+Then click Finish.
+
+Step 3: Check whether Git works
+
+Open:
+
+Command Prompt
+
+Type:
+
+git --version
+
+Press Enter.
+

@@ -1,0 +1,31 @@
+SDLC for a Daily-App Feature
+
+ choosen:
+
+ Instagram — Add Dark Mode
+
+ Instagram doesn't have dark mode and the company decides to add it.
+
+1. Requirement
+
+The team decides that users should be able to switch between light mode and dark mode.
+
+2. Design
+
+Designers create the dark-colored screens and decide where the dark-mode option will appear in Settings.
+
+3. Development
+
+Developers write the code needed to change the app's colors, backgrounds, text and other UI elements when dark mode is enabled.
+
+4. Testing
+
+Testers check dark mode on different phones and screen sizes and make sure buttons, text, images and settings work correctly.
+
+5. Deployment
+
+The completed feature is released to users through a new version of the app.
+
+6. Maintenance
+
+After release, the team fixes bugs reported by users and improves dark mode in future updates.

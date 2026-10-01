@@ -1,0 +1,18 @@
+A. Contributor
+
+Contributor: https://github.com/InternLM/InternLM
+
+A contributor to the InternLM project helps improve the open-source AI model by adding features, fixing problems, improving code, or updating documentation.
+
+B. Open Issue
+
+Issue: https://github.com/anyscale/ray/issues/1737
+
+A release test for Hugging Face Transformers failed in the Ray project and needs to be fixed.
+
+C. Merged Pull Request
+
+Requests: https://github.com/kleinpa/oops/pull/10
+
+The project updated its dependency from version 3 to version 4 to use the newer Transformers.js release.
+

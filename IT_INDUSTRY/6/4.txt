@@ -1,0 +1,37 @@
+Requirement
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Maintenance
+
+Swiggy — Split Bill Feature
+
+1. Requirement
+
+Swiggy identifies the need for a feature that allows friends to split a food order's bill between multiple people.
+
+2. Design
+
+Designers create the split-bill screen showing the total amount, participants and each person's share.
+
+3. Development
+
+Developers write the code required to calculate and process each person's share of the bill.
+
+4. Testing
+
+Testers check whether the bill is divided correctly and test different numbers of people and payment situations.
+
+5. Deployment
+
+Swiggy releases the split-bill feature to users through an app update or controlled rollout.
+
+6. Maintenance
+
+The team fixes bugs and improves the feature after receiving feedback from users.

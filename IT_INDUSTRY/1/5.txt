@@ -1,0 +1,9 @@
+Here are three emerging titles
+
+Emerging AI Job                                What does the person do?
+
+Agentic AI Developer                 Builds AI systems that can perform multiple steps, use tools and complete tasks with less human intervention.
+
+GenAI Architect                      Designs the overall technical structure for generative-AI systems used by an organization.
+
+AI Security Engineer                 Protects AI systems and applications from attacks, data leaks, unsafe outputs and other security problems.

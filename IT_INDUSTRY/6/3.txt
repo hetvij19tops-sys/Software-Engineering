@@ -1,0 +1,5 @@
+ Scrum Role                                  Zomato Example                                                           
+
+Product Owner                           Decides the requirements and priority of the scheduled-delivery feature. 
+Scrum Master                            Helps the team remove obstacles and follow the Scrum process.            
+Development Team                        Designs, codes, tests and delivers the scheduled-delivery feature.       

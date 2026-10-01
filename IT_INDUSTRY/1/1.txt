@@ -1,0 +1,12 @@
+      Career role              Family                                         Description                                                                         Salary
+
+Software Developer         Traditional IT          A software developer writes code to create websites, apps, and software. They also fix bugs.               ₹3–8 LPA
+
+Data Analyst               Traditional IT          A data analyst studies data to find useful information and trends. They use tools such as                 ₹2.5–6 LPA
+                                                      Excel, SQL and Python.
+
+AI Engineer                 AI-focused            An AI Engineer builds applications that use artificial intelligence. They may work with chatbots.           ₹4–10 LPA
+
+ML Engineer                 AI-focused            A Machine Learning Engineer develops and deploys machine-learning models. They work with data, 
+                                                     algorithms and programming.                                                                               ₹4–10 LPA
+

@@ -1,0 +1,85 @@
+&#x20;            FOOD DELIVERY APP
+
+&#x20;                   │
+
+&#x20;                   ▼
+
+&#x20;       ┌────────────────────
+
+&#x20;       │       1. UI LAYER       │
+
+&#x20;       │  Screens \& buttons      │
+
+&#x20;       │  menus, cart, checkout  │
+
+&#x20;       └────────────┬──────
+
+&#x20;                    │
+
+&#x20;                    ▼
+
+&#x20;       ┌───────────────────
+
+&#x20;       │ 2. BUSINESS LOGIC      │
+
+&#x20;       │ Orders, payments,      │
+
+&#x20;       │ delivery rules         │
+
+&#x20;       └────────────┬──────
+
+&#x20;                    │
+
+&#x20;                    ▼
+
+&#x20;       ┌───────────────────
+
+&#x20;       │     3. DATABASE        │
+
+&#x20;       │ Users, restaurants,    │
+
+&#x20;       │ menus, orders          │
+
+&#x20;       └────────────┬──────
+
+&#x20;                    │
+
+&#x20;                    ▼
+
+&#x20;       ┌───────────────────
+
+&#x20;       │    4. AI / MODEL       │
+
+
+&#x20;       │ Recommendations,       │
+
+&#x20;       │ predictions, ranking   │
+
+&#x20;       └───────────────────
+
+
+
+**What does each layer do?**
+
+1\. UI — User Interface
+
+UI Layer: This is the visible part of the app that users interact with. It includes restaurant listings, menus, search, cart, payment and order-tracking screens.
+
+
+
+2\. Business Logic
+
+Business Logic Layer: It processes user actions and applies the rules of the application, such as calculating prices, placing orders, processing payments and updating delivery status.
+
+
+
+3\. Database
+
+Database Layer: It stores important information such as user accounts, restaurant details, menus, orders, payments and reviews.
+
+
+
+4\. AI / Model Layer
+
+AI/Model Layer: It uses data and machine-learning models to provide features such as restaurant recommendations, personalized offers and delivery-time predictions.
+

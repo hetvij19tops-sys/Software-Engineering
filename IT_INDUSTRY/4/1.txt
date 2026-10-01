@@ -1,0 +1,16 @@
+Request URL         https://play.google.com/log?format=json&hasfast=true&authuser=0
+
+Request Method      POST
+
+Status Code   200 OK
+
+Remote Address   [2404:6800:4000:1010::8a]:443
+
+Referrer Policy   no-referrer
+
+HEADERS
+
+
+access-control-allow-headers    X-Playlog-Web
+
+access-control-allow-origin    https://accounts.google.com
