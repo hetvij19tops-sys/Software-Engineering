@@ -1,4 +1,0 @@
-Compiler: Converts the whole program into machine code before running it. It runs faster.
-Example: C, C++
-Interpreter: Runs the program one line at a time. It stops if it finds an error.
-Example: Python
