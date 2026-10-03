@@ -1,0 +1,17 @@
+Daily Task: Sending a Message on WhatsApp
+
+Algorithm
+Start.
+Open the WhatsApp app.
+Select the contact you want to message.
+Tap the message box.
+Type your message.
+Tap the Send button.
+Stop.
+
+
+Step That Could Be Misunderstood
+
+Unclear: "Select the contact."
+
+Clear Version: "Tap the name of the person you want to send the message to from your chat list or contacts."
